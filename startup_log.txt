@@ -1,0 +1,5 @@
+==== Intern Compass startup ==== 
+Time: 2026/07/07 周二  2:55:27.68 
+Root: E:\workspace\Project Intern Compass实习方向推荐工具\ 
+Python: C:\Users\Loy\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe 
+Starting app... 

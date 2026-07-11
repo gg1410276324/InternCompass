@@ -1,0 +1,340 @@
+{
+  "canonical_majors": [
+    {
+      "canonical_major_id": "animal_medicine",
+      "canonical_major_name": "动物医学",
+      "major_group": "动物医学类",
+      "related_groups": [
+        "动物医学类",
+        "动物医学与动保类"
+      ],
+      "barrier_level": "强专业壁垒",
+      "aliases": [
+        "动物医学",
+        "畜牧兽医",
+        "兽医",
+        "动医",
+        "宠物医学",
+        "宠物医疗",
+        "动物科学",
+        "动物药学",
+        "动物医学类",
+        "畜牧兽医类"
+      ],
+      "industry_keywords": [
+        "动保",
+        "宠物",
+        "兽药",
+        "养殖",
+        "动物检验",
+        "动物检测",
+        "宠物医疗",
+        "宠物医院",
+        "兽医"
+      ]
+    },
+    {
+      "canonical_major_id": "clinical_medicine",
+      "canonical_major_name": "临床医学",
+      "major_group": "临床医学类",
+      "related_groups": [
+        "临床医学类",
+        "医药健康类"
+      ],
+      "barrier_level": "强专业壁垒",
+      "aliases": [
+        "临床医学",
+        "医学",
+        "临床",
+        "全科医学"
+      ],
+      "industry_keywords": [
+        "医院",
+        "临床",
+        "医学",
+        "医药"
+      ]
+    },
+    {
+      "canonical_major_id": "oral_medicine",
+      "canonical_major_name": "口腔医学",
+      "major_group": "口腔医学类",
+      "related_groups": [
+        "口腔医学类"
+      ],
+      "barrier_level": "强专业壁垒",
+      "aliases": [
+        "口腔医学",
+        "口腔医学技术",
+        "口腔",
+        "牙医",
+        "齿科"
+      ],
+      "industry_keywords": [
+        "口腔",
+        "齿科",
+        "牙科"
+      ]
+    },
+    {
+      "canonical_major_id": "computer_science",
+      "canonical_major_name": "计算机科学与技术",
+      "major_group": "计算机类",
+      "related_groups": [
+        "计算机类"
+      ],
+      "barrier_level": "中高专业壁垒",
+      "aliases": [
+        "计算机科学与技术",
+        "软件工程",
+        "人工智能",
+        "数据科学与大数据技术",
+        "网络工程",
+        "信息安全",
+        "物联网工程",
+        "计算机",
+        "软工",
+        "AI",
+        "大数据"
+      ],
+      "industry_keywords": [
+        "开发",
+        "算法",
+        "数据",
+        "软件",
+        "AI",
+        "技术"
+      ]
+    },
+    {
+      "canonical_major_id": "accounting_finance",
+      "canonical_major_name": "会计学",
+      "major_group": "财会类",
+      "related_groups": [
+        "财会类",
+        "商科管理类"
+      ],
+      "barrier_level": "中专业壁垒",
+      "aliases": [
+        "会计学",
+        "财务管理",
+        "审计学",
+        "会计",
+        "财务",
+        "审计"
+      ],
+      "industry_keywords": [
+        "财务",
+        "会计",
+        "审计",
+        "税务"
+      ]
+    },
+    {
+      "canonical_major_id": "law",
+      "canonical_major_name": "法学",
+      "major_group": "法学类",
+      "related_groups": [
+        "法学类",
+        "法学公共管理类"
+      ],
+      "barrier_level": "中高专业壁垒",
+      "aliases": [
+        "法学",
+        "知识产权",
+        "法律",
+        "法务"
+      ],
+      "industry_keywords": [
+        "法律",
+        "法务",
+        "知识产权",
+        "合规"
+      ]
+    },
+    {
+      "canonical_major_id": "journalism_communication",
+      "canonical_major_name": "新闻传播",
+      "major_group": "新闻传播类",
+      "related_groups": [
+        "新闻传播类",
+        "文学传播类",
+        "传媒语言类"
+      ],
+      "barrier_level": "低专业壁垒",
+      "aliases": [
+        "新闻学",
+        "传播学",
+        "广告学",
+        "网络与新媒体",
+        "新传",
+        "新闻传播"
+      ],
+      "industry_keywords": [
+        "内容",
+        "新媒体",
+        "传播",
+        "品牌",
+        "广告"
+      ]
+    },
+    {
+      "canonical_major_id": "design_art",
+      "canonical_major_name": "设计艺术",
+      "major_group": "设计艺术类",
+      "related_groups": [
+        "设计艺术类",
+        "设计心理类"
+      ],
+      "barrier_level": "作品集壁垒",
+      "aliases": [
+        "视觉传达设计",
+        "环境设计",
+        "产品设计",
+        "数字媒体艺术",
+        "动画",
+        "平面设计",
+        "UI设计",
+        "设计"
+      ],
+      "industry_keywords": [
+        "设计",
+        "视觉",
+        "UI",
+        "交互",
+        "作品集"
+      ]
+    },
+    {
+      "canonical_major_id": "bio_food_agriculture",
+      "canonical_major_name": "生物食品农业",
+      "major_group": "生物食品农业类",
+      "related_groups": [
+        "生物食品农业类",
+        "生物农业类",
+        "理学类"
+      ],
+      "barrier_level": "中专业壁垒",
+      "aliases": [
+        "生物科学",
+        "生物技术",
+        "食品科学与工程",
+        "食品质量与安全",
+        "农学",
+        "园艺",
+        "植物保护",
+        "水产养殖学"
+      ],
+      "industry_keywords": [
+        "生物",
+        "食品",
+        "农业",
+        "实验",
+        "检测",
+        "水产"
+      ]
+    },
+    {
+      "canonical_major_id": "pharmacy",
+      "canonical_major_name": "药学",
+      "major_group": "药学类",
+      "related_groups": [
+        "药学类",
+        "医药健康类"
+      ],
+      "barrier_level": "中高专业壁垒",
+      "aliases": [
+        "药学",
+        "临床药学",
+        "药物制剂",
+        "制药工程",
+        "中药学",
+        "药剂学",
+        "药剂",
+        "药品",
+        "医药",
+        "药学类",
+        "药品生产技术",
+        "药品质量与安全"
+      ],
+      "industry_keywords": [
+        "药企",
+        "药品",
+        "药品研发",
+        "药品注册",
+        "药品质量",
+        "QA",
+        "QC",
+        "医药代表",
+        "医药市场",
+        "CRC",
+        "临床研究",
+        "医学内容",
+        "药学科普",
+        "医疗产品",
+        "GMP",
+        "临床研究协调"
+      ]
+    },
+    {
+      "canonical_major_id": "nursing",
+      "canonical_major_name": "护理学",
+      "major_group": "护理学类",
+      "related_groups": [
+        "护理学类",
+        "医药健康类"
+      ],
+      "barrier_level": "中高专业壁垒",
+      "aliases": [
+        "护理学",
+        "护理",
+        "护士",
+        "护理学类"
+      ],
+      "industry_keywords": [
+        "护理",
+        "医院护理",
+        "健康管理",
+        "医疗服务",
+        "医美护理",
+        "医疗器械培训",
+        "随访"
+      ]
+    },
+    {
+      "canonical_major_id": "medical_technology",
+      "canonical_major_name": "医学技术",
+      "major_group": "医学技术类",
+      "related_groups": [
+        "医学技术类",
+        "医药健康类"
+      ],
+      "barrier_level": "中高专业壁垒",
+      "aliases": [
+        "医学技术",
+        "医学检验技术",
+        "医学检验",
+        "医学影像学",
+        "医学影像技术",
+        "医学影像",
+        "康复治疗学",
+        "康复治疗",
+        "检验",
+        "影像",
+        "康复",
+        "医技"
+      ],
+      "industry_keywords": [
+        "检验科",
+        "检测机构",
+        "IVD",
+        "实验室",
+        "医疗器械",
+        "影像产品",
+        "医疗影像AI",
+        "康复机构",
+        "健康管理"
+      ]
+    }
+  ]
+}

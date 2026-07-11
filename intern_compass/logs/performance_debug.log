@@ -1,0 +1,37 @@
+2026-07-08 21:16:09 [DEBUG] self_check count=1 version=nopassword
+2026-07-08 21:17:01 [DEBUG] on_generate_click count=1
+2026-07-08 21:17:01 [DEBUG] generate_recommendations count=1
+2026-07-08 21:17:02 [DEBUG] after_callback count=1 target=finish_generate_success
+2026-07-08 21:17:02 [DEBUG] render_recommendations count=1
+2026-07-08 21:17:02 [DEBUG] render_job_cards count=1 filter=all count=0
+2026-07-08 21:17:02 [DEBUG] render_job_detail count=1 job_id=b2b_product_assistant
+2026-07-08 22:01:19 [DEBUG] on_generate_click count=1
+2026-07-08 22:01:19 [DEBUG] generate_recommendations count=1
+2026-07-08 22:01:19 [DEBUG] after_callback count=1 target=finish_generate_success
+2026-07-08 22:01:19 [DEBUG] render_recommendations count=1
+2026-07-08 22:01:19 [DEBUG] render_job_cards count=1 filter=all count=12
+2026-07-08 22:01:19 [DEBUG] render_job_detail count=1 job_id=financial_analysis_assistant
+2026-07-08 22:02:06 [DEBUG] on_generate_click count=1
+2026-07-08 22:02:06 [DEBUG] generate_recommendations count=1
+2026-07-08 22:02:06 [DEBUG] after_callback count=1 target=finish_generate_success
+2026-07-08 22:02:06 [DEBUG] render_recommendations count=1
+2026-07-08 22:02:06 [DEBUG] render_job_cards count=1 filter=all count=28
+2026-07-08 22:02:06 [DEBUG] render_job_detail count=1 job_id=frontend_development_intern
+2026-07-08 22:02:46 [DEBUG] on_generate_click count=1
+2026-07-08 22:02:46 [DEBUG] generate_recommendations count=1
+2026-07-08 22:02:46 [DEBUG] after_callback count=1 target=finish_generate_success
+2026-07-08 22:02:46 [DEBUG] render_recommendations count=1
+2026-07-08 22:02:46 [DEBUG] render_job_cards count=1 filter=all count=12
+2026-07-08 22:02:46 [DEBUG] render_job_detail count=1 job_id=financial_analysis_assistant
+2026-07-08 22:03:19 [DEBUG] on_generate_click count=1
+2026-07-08 22:03:19 [DEBUG] generate_recommendations count=1
+2026-07-08 22:03:19 [DEBUG] after_callback count=1 target=finish_generate_success
+2026-07-08 22:03:19 [DEBUG] render_recommendations count=1
+2026-07-08 22:03:19 [DEBUG] render_job_cards count=1 filter=all count=12
+2026-07-08 22:03:20 [DEBUG] render_job_detail count=1 job_id=financial_analysis_assistant
+2026-07-08 23:00:18 [DEBUG] on_generate_click count=1
+2026-07-08 23:00:18 [DEBUG] generate_recommendations count=1
+2026-07-08 23:00:18 [DEBUG] after_callback count=1 target=finish_generate_success
+2026-07-08 23:00:18 [DEBUG] render_recommendations count=1
+2026-07-08 23:00:18 [DEBUG] render_job_cards count=1 filter=all count=11
+2026-07-08 23:00:18 [DEBUG] render_job_detail count=1 job_id=financial_analysis_assistant

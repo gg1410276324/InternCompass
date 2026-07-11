@@ -1,0 +1,2952 @@
+[
+  {
+    "major_id": "major_1",
+    "major_name": "动物医学",
+    "aliases": [
+      "动物",
+      "兽医",
+      "动医",
+      "畜牧兽医",
+      "宠物医学",
+      "宠物医疗",
+      "动物医学类",
+      "畜牧兽医类"
+    ],
+    "keywords": [
+      "动物医学",
+      "动物医学与动保类",
+      "动物",
+      "兽医",
+      "动医",
+      "畜牧兽医",
+      "宠物医学",
+      "宠物医疗",
+      "动物医学类",
+      "畜牧兽医类"
+    ],
+    "major_group": "动物医学与动保类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "veterinary_assistant",
+      "pet_hospital_intern",
+      "farm_tech_intern",
+      "animal_testing_intern",
+      "animal_drug_tech_support"
+    ],
+    "weak_related_job_ids": [
+      "animal_health_marketing_intern",
+      "pet_brand_content_operation",
+      "pet_medical_product_assistant",
+      "pet_platform_user_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "animal_medical",
+    "search_keywords": [
+      "动物医学",
+      "动物医学与动保类",
+      "动物",
+      "兽医",
+      "动医",
+      "畜牧兽医",
+      "宠物医学",
+      "宠物医疗",
+      "动物医学类",
+      "畜牧兽医类"
+    ],
+    "popularity_score": 100,
+    "display_order": 10
+  },
+  {
+    "major_id": "major_2",
+    "major_name": "动物科学",
+    "aliases": [
+      "动物",
+      "动科",
+      "动物医学类",
+      "畜牧兽医类",
+      "养殖",
+      "动保"
+    ],
+    "keywords": [
+      "动物科学",
+      "动物医学与动保类",
+      "动物",
+      "动科",
+      "动物医学类",
+      "畜牧兽医类",
+      "养殖",
+      "动保"
+    ],
+    "major_group": "动物医学与动保类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "veterinary_assistant",
+      "pet_hospital_intern",
+      "farm_tech_intern",
+      "animal_testing_intern",
+      "animal_drug_tech_support"
+    ],
+    "weak_related_job_ids": [
+      "animal_health_marketing_intern",
+      "pet_brand_content_operation",
+      "pet_medical_product_assistant",
+      "pet_platform_user_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "animal_medical",
+    "search_keywords": [
+      "动物科学",
+      "动物医学与动保类",
+      "动物",
+      "动科",
+      "动物医学类",
+      "畜牧兽医类",
+      "养殖",
+      "动保"
+    ],
+    "popularity_score": 90,
+    "display_order": 20
+  },
+  {
+    "major_id": "major_3",
+    "major_name": "畜牧兽医",
+    "aliases": [
+      "兽医",
+      "畜牧",
+      "动物医学专科",
+      "动医",
+      "动物医学",
+      "动物医学类",
+      "畜牧兽医类"
+    ],
+    "keywords": [
+      "畜牧兽医",
+      "动物医学与动保类",
+      "兽医",
+      "畜牧",
+      "动物医学专科",
+      "动医",
+      "动物医学",
+      "动物医学类",
+      "畜牧兽医类"
+    ],
+    "major_group": "动物医学与动保类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "veterinary_assistant",
+      "pet_hospital_intern",
+      "farm_tech_intern",
+      "animal_testing_intern",
+      "animal_drug_tech_support"
+    ],
+    "weak_related_job_ids": [
+      "animal_health_marketing_intern",
+      "pet_brand_content_operation",
+      "pet_medical_product_assistant",
+      "pet_platform_user_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "animal_medical",
+    "search_keywords": [
+      "畜牧兽医",
+      "动物医学与动保类",
+      "兽医",
+      "畜牧",
+      "动物医学专科",
+      "动医",
+      "动物医学",
+      "动物医学类",
+      "畜牧兽医类"
+    ],
+    "popularity_score": 82,
+    "display_order": 30
+  },
+  {
+    "major_id": "major_4",
+    "major_name": "水产养殖学",
+    "aliases": [
+      "水产",
+      "水产养殖",
+      "动物医学类",
+      "养殖"
+    ],
+    "keywords": [
+      "水产养殖学",
+      "动物医学与动保类",
+      "水产",
+      "水产养殖",
+      "动物医学类",
+      "养殖"
+    ],
+    "major_group": "动物医学与动保类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "veterinary_assistant",
+      "pet_hospital_intern",
+      "farm_tech_intern",
+      "animal_testing_intern",
+      "animal_drug_tech_support"
+    ],
+    "weak_related_job_ids": [
+      "animal_health_marketing_intern",
+      "pet_brand_content_operation",
+      "pet_medical_product_assistant",
+      "pet_platform_user_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "animal_medical",
+    "search_keywords": [
+      "水产养殖学",
+      "动物医学与动保类",
+      "水产",
+      "水产养殖",
+      "动物医学类",
+      "养殖"
+    ],
+    "popularity_score": 72,
+    "display_order": 40
+  },
+  {
+    "major_id": "major_5",
+    "major_name": "临床医学",
+    "aliases": [
+      "临床",
+      "全科医学"
+    ],
+    "keywords": [
+      "临床医学",
+      "医药健康类",
+      "临床",
+      "临床医学类",
+      "医院见习",
+      "临床一线"
+    ],
+    "major_group": "医药健康类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "hospital_observation_intern",
+      "clinical_research_assistant",
+      "medical_affairs_assistant",
+      "medical_device_clinical_support",
+      "medical_editor"
+    ],
+    "weak_related_job_ids": [
+      "pharma_marketing_intern",
+      "medical_product_assistant",
+      "health_management_operation",
+      "medical_content_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "medical",
+    "search_keywords": [
+      "临床医学",
+      "医药健康类",
+      "临床",
+      "临床医学类",
+      "医院见习",
+      "临床一线"
+    ],
+    "popularity_score": 50,
+    "display_order": 1004
+  },
+  {
+    "major_id": "major_6",
+    "major_name": "护理学",
+    "aliases": [
+      "护理",
+      "护士"
+    ],
+    "keywords": [
+      "护理学",
+      "医药健康类",
+      "护理",
+      "护理学类",
+      "健康管理",
+      "医疗服务"
+    ],
+    "major_group": "医药健康类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "hospital_observation_intern",
+      "clinical_research_assistant",
+      "medical_affairs_assistant",
+      "medical_device_clinical_support",
+      "medical_editor"
+    ],
+    "weak_related_job_ids": [
+      "pharma_marketing_intern",
+      "medical_product_assistant",
+      "health_management_operation",
+      "medical_content_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "medical",
+    "search_keywords": [
+      "护理学",
+      "医药健康类",
+      "护理",
+      "护理学类",
+      "护士",
+      "健康管理",
+      "医疗服务"
+    ],
+    "popularity_score": 50,
+    "display_order": 1005
+  },
+  {
+    "major_id": "major_7",
+    "major_name": "药学",
+    "aliases": [
+      "药品",
+      "医药",
+      "临床药学",
+      "药物制剂",
+      "制药工程",
+      "中药学",
+      "药品生产技术",
+      "药品质量与安全"
+    ],
+    "keywords": [
+      "药学",
+      "医药健康类",
+      "药品",
+      "医药",
+      "药学类",
+      "药企",
+      "药品注册",
+      "QA",
+      "QC",
+      "医药市场",
+      "CRC",
+      "临床药学",
+      "药物制剂",
+      "制药工程",
+      "中药学",
+      "药品生产技术",
+      "药品质量与安全",
+      "药品研发",
+      "药品质量",
+      "GMP",
+      "临床研究协调",
+      "医药代表",
+      "药学科普"
+    ],
+    "major_group": "医药健康类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "hospital_observation_intern",
+      "clinical_research_assistant",
+      "medical_affairs_assistant",
+      "medical_device_clinical_support",
+      "medical_editor"
+    ],
+    "weak_related_job_ids": [
+      "pharma_marketing_intern",
+      "medical_product_assistant",
+      "health_management_operation",
+      "medical_content_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "medical",
+    "search_keywords": [
+      "药学",
+      "医药健康类",
+      "药品",
+      "医药",
+      "药学类",
+      "药企",
+      "药品注册",
+      "QA",
+      "QC",
+      "医药代表",
+      "医药市场",
+      "医学内容",
+      "药学科普",
+      "临床药学",
+      "药物制剂",
+      "制药工程",
+      "中药学",
+      "药品生产技术",
+      "药品质量与安全",
+      "药品研发",
+      "药品质量",
+      "GMP",
+      "CRC",
+      "临床研究协调"
+    ],
+    "popularity_score": 50,
+    "display_order": 1006
+  },
+  {
+    "major_id": "major_8",
+    "major_name": "医学检验技术",
+    "aliases": [
+      "检验",
+      "医学检验"
+    ],
+    "keywords": [
+      "医学检验技术",
+      "医药健康类",
+      "检验",
+      "医学技术类",
+      "检验科",
+      "检测机构",
+      "IVD",
+      "实验室"
+    ],
+    "major_group": "医药健康类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "hospital_observation_intern",
+      "clinical_research_assistant",
+      "medical_affairs_assistant",
+      "medical_device_clinical_support",
+      "medical_editor"
+    ],
+    "weak_related_job_ids": [
+      "pharma_marketing_intern",
+      "medical_product_assistant",
+      "health_management_operation",
+      "medical_content_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "medical",
+    "search_keywords": [
+      "医学检验技术",
+      "医药健康类",
+      "检验",
+      "医学技术类",
+      "医学检验",
+      "检验科",
+      "检测机构",
+      "IVD",
+      "实验室"
+    ],
+    "popularity_score": 50,
+    "display_order": 1007
+  },
+  {
+    "major_id": "major_9",
+    "major_name": "医学影像学",
+    "aliases": [
+      "影像",
+      "医学影像"
+    ],
+    "keywords": [
+      "医学影像学",
+      "医药健康类",
+      "影像",
+      "医学技术类",
+      "影像科",
+      "医疗影像AI",
+      "影像产品"
+    ],
+    "major_group": "医药健康类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "hospital_observation_intern",
+      "clinical_research_assistant",
+      "medical_affairs_assistant",
+      "medical_device_clinical_support",
+      "medical_editor"
+    ],
+    "weak_related_job_ids": [
+      "pharma_marketing_intern",
+      "medical_product_assistant",
+      "health_management_operation",
+      "medical_content_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "medical",
+    "search_keywords": [
+      "医学影像学",
+      "医药健康类",
+      "影像",
+      "医学技术类",
+      "医学影像",
+      "影像科",
+      "医疗影像AI",
+      "影像产品"
+    ],
+    "popularity_score": 50,
+    "display_order": 1008
+  },
+  {
+    "major_id": "major_10",
+    "major_name": "预防医学",
+    "aliases": [],
+    "keywords": [
+      "预防医学",
+      "医药健康类"
+    ],
+    "major_group": "医药健康类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "hospital_observation_intern",
+      "clinical_research_assistant",
+      "medical_affairs_assistant",
+      "medical_device_clinical_support",
+      "medical_editor"
+    ],
+    "weak_related_job_ids": [
+      "pharma_marketing_intern",
+      "medical_product_assistant",
+      "health_management_operation",
+      "medical_content_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "medical",
+    "search_keywords": [
+      "预防医学",
+      "医药健康类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1009
+  },
+  {
+    "major_id": "major_11",
+    "major_name": "康复治疗学",
+    "aliases": [
+      "康复",
+      "康复治疗"
+    ],
+    "keywords": [
+      "康复治疗学",
+      "医药健康类",
+      "医学技术类",
+      "康复机构",
+      "健康管理"
+    ],
+    "major_group": "医药健康类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "hospital_observation_intern",
+      "clinical_research_assistant",
+      "medical_affairs_assistant",
+      "medical_device_clinical_support",
+      "medical_editor"
+    ],
+    "weak_related_job_ids": [
+      "pharma_marketing_intern",
+      "medical_product_assistant",
+      "health_management_operation",
+      "medical_content_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "medical",
+    "search_keywords": [
+      "康复治疗学",
+      "医药健康类",
+      "医学技术类",
+      "康复治疗",
+      "康复机构",
+      "健康管理"
+    ],
+    "popularity_score": 50,
+    "display_order": 1010
+  },
+  {
+    "major_id": "major_12",
+    "major_name": "口腔医学",
+    "aliases": [
+      "口腔",
+      "牙医",
+      "齿科"
+    ],
+    "keywords": [
+      "口腔医学",
+      "口腔医学类",
+      "口腔",
+      "牙医",
+      "齿科"
+    ],
+    "major_group": "口腔医学类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "dental_clinic_assistant",
+      "dental_hospital_intern",
+      "dental_device_product_assistant",
+      "dental_medical_editor"
+    ],
+    "weak_related_job_ids": [
+      "dental_brand_marketing_intern",
+      "dental_new_media_operation",
+      "dental_device_marketing_assistant"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "oral_medical",
+    "search_keywords": [
+      "口腔医学",
+      "口腔医学类",
+      "口腔",
+      "牙医",
+      "齿科"
+    ],
+    "popularity_score": 100,
+    "display_order": 10
+  },
+  {
+    "major_id": "major_13",
+    "major_name": "口腔医学技术",
+    "aliases": [
+      "口腔技术",
+      "齿科技工",
+      "口腔",
+      "牙医",
+      "齿科"
+    ],
+    "keywords": [
+      "口腔医学技术",
+      "口腔医学类",
+      "口腔技术",
+      "齿科技工",
+      "口腔",
+      "牙医",
+      "齿科"
+    ],
+    "major_group": "口腔医学类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "dental_clinic_assistant",
+      "dental_hospital_intern",
+      "dental_device_product_assistant",
+      "dental_medical_editor"
+    ],
+    "weak_related_job_ids": [
+      "dental_brand_marketing_intern",
+      "dental_new_media_operation",
+      "dental_device_marketing_assistant"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "oral_medical",
+    "search_keywords": [
+      "口腔医学技术",
+      "口腔医学类",
+      "口腔技术",
+      "齿科技工",
+      "口腔",
+      "牙医",
+      "齿科"
+    ],
+    "popularity_score": 78,
+    "display_order": 20
+  },
+  {
+    "major_id": "major_14",
+    "major_name": "计算机科学与技术",
+    "aliases": [
+      "计算机",
+      "CS",
+      "Computer Science"
+    ],
+    "keywords": [
+      "计算机科学与技术",
+      "计算机类",
+      "计算机",
+      "CS",
+      "Computer Science",
+      "计算机科学",
+      "技术"
+    ],
+    "major_group": "计算机类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "frontend_development_intern",
+      "backend_development_intern",
+      "java_development_intern",
+      "python_development_intern",
+      "test_development_intern",
+      "data_development_intern",
+      "ai_application_development_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "ai_product_assistant",
+      "data_analysis_intern",
+      "bi_assistant",
+      "technical_support_intern",
+      "ai_tool_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant",
+      "edtech_operation_intern"
+    ],
+    "conditional_question_group": "computer",
+    "search_keywords": [
+      "计算机科学与技术",
+      "计算机类",
+      "计算机",
+      "CS",
+      "Computer Science"
+    ],
+    "popularity_score": 100,
+    "display_order": 10
+  },
+  {
+    "major_id": "major_15",
+    "major_name": "软件工程",
+    "aliases": [
+      "软件",
+      "Software Engineering",
+      "软工"
+    ],
+    "keywords": [
+      "软件工程",
+      "计算机类",
+      "软件",
+      "Software Engineering",
+      "软工"
+    ],
+    "major_group": "计算机类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "frontend_development_intern",
+      "backend_development_intern",
+      "java_development_intern",
+      "python_development_intern",
+      "test_development_intern",
+      "data_development_intern",
+      "ai_application_development_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "ai_product_assistant",
+      "data_analysis_intern",
+      "bi_assistant",
+      "technical_support_intern",
+      "ai_tool_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant",
+      "edtech_operation_intern"
+    ],
+    "conditional_question_group": "computer",
+    "search_keywords": [
+      "软件工程",
+      "计算机类",
+      "软件",
+      "Software Engineering",
+      "软工"
+    ],
+    "popularity_score": 96,
+    "display_order": 20
+  },
+  {
+    "major_id": "major_16",
+    "major_name": "人工智能",
+    "aliases": [
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "keywords": [
+      "人工智能",
+      "计算机类",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "major_group": "计算机类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "frontend_development_intern",
+      "backend_development_intern",
+      "java_development_intern",
+      "python_development_intern",
+      "test_development_intern",
+      "data_development_intern",
+      "ai_application_development_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "ai_product_assistant",
+      "data_analysis_intern",
+      "bi_assistant",
+      "technical_support_intern",
+      "ai_tool_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant",
+      "edtech_operation_intern"
+    ],
+    "conditional_question_group": "computer",
+    "search_keywords": [
+      "人工智能",
+      "计算机类",
+      "AI",
+      "Artificial Intelligence"
+    ],
+    "popularity_score": 92,
+    "display_order": 30
+  },
+  {
+    "major_id": "major_17",
+    "major_name": "数据科学与大数据技术",
+    "aliases": [
+      "大数据",
+      "数据科学"
+    ],
+    "keywords": [
+      "数据科学与大数据技术",
+      "计算机类",
+      "大数据",
+      "数据科学",
+      "大数据技术"
+    ],
+    "major_group": "计算机类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "frontend_development_intern",
+      "backend_development_intern",
+      "java_development_intern",
+      "python_development_intern",
+      "test_development_intern",
+      "data_development_intern",
+      "ai_application_development_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "ai_product_assistant",
+      "data_analysis_intern",
+      "bi_assistant",
+      "technical_support_intern",
+      "ai_tool_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant",
+      "edtech_operation_intern"
+    ],
+    "conditional_question_group": "computer",
+    "search_keywords": [
+      "数据科学与大数据技术",
+      "计算机类",
+      "大数据",
+      "数据科学"
+    ],
+    "popularity_score": 88,
+    "display_order": 40
+  },
+  {
+    "major_id": "major_18",
+    "major_name": "网络工程",
+    "aliases": [
+      "网络"
+    ],
+    "keywords": [
+      "网络工程",
+      "计算机类",
+      "网络"
+    ],
+    "major_group": "计算机类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "frontend_development_intern",
+      "backend_development_intern",
+      "java_development_intern",
+      "python_development_intern",
+      "test_development_intern",
+      "data_development_intern",
+      "ai_application_development_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "ai_product_assistant",
+      "data_analysis_intern",
+      "bi_assistant",
+      "technical_support_intern",
+      "ai_tool_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant",
+      "edtech_operation_intern"
+    ],
+    "conditional_question_group": "computer",
+    "search_keywords": [
+      "网络工程",
+      "计算机类",
+      "网络"
+    ],
+    "popularity_score": 78,
+    "display_order": 50
+  },
+  {
+    "major_id": "major_19",
+    "major_name": "信息安全",
+    "aliases": [
+      "网安",
+      "安全"
+    ],
+    "keywords": [
+      "信息安全",
+      "计算机类",
+      "网安",
+      "安全"
+    ],
+    "major_group": "计算机类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "frontend_development_intern",
+      "backend_development_intern",
+      "java_development_intern",
+      "python_development_intern",
+      "test_development_intern",
+      "data_development_intern",
+      "ai_application_development_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "ai_product_assistant",
+      "data_analysis_intern",
+      "bi_assistant",
+      "technical_support_intern",
+      "ai_tool_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant",
+      "edtech_operation_intern"
+    ],
+    "conditional_question_group": "computer",
+    "search_keywords": [
+      "信息安全",
+      "计算机类",
+      "网安",
+      "安全"
+    ],
+    "popularity_score": 76,
+    "display_order": 60
+  },
+  {
+    "major_id": "major_20",
+    "major_name": "物联网工程",
+    "aliases": [],
+    "keywords": [
+      "物联网工程",
+      "计算机类"
+    ],
+    "major_group": "计算机类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "frontend_development_intern",
+      "backend_development_intern",
+      "java_development_intern",
+      "python_development_intern",
+      "test_development_intern",
+      "data_development_intern",
+      "ai_application_development_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "ai_product_assistant",
+      "data_analysis_intern",
+      "bi_assistant",
+      "technical_support_intern",
+      "ai_tool_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant",
+      "edtech_operation_intern"
+    ],
+    "conditional_question_group": "computer",
+    "search_keywords": [
+      "物联网工程",
+      "计算机类"
+    ],
+    "popularity_score": 70,
+    "display_order": 70
+  },
+  {
+    "major_id": "major_21",
+    "major_name": "工商管理",
+    "aliases": [
+      "商科",
+      "管理",
+      "市场"
+    ],
+    "keywords": [
+      "工商管理",
+      "商科管理类",
+      "商科",
+      "管理",
+      "市场",
+      "商业",
+      "营销"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "工商管理",
+      "商科管理类",
+      "商科",
+      "管理",
+      "市场",
+      "商业",
+      "营销"
+    ],
+    "popularity_score": 88,
+    "display_order": 20
+  },
+  {
+    "major_id": "major_22",
+    "major_name": "市场营销",
+    "aliases": [
+      "市场",
+      "营销"
+    ],
+    "keywords": [
+      "市场营销",
+      "商科管理类",
+      "市场",
+      "营销"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "市场营销",
+      "商科管理类",
+      "市场",
+      "营销"
+    ],
+    "popularity_score": 100,
+    "display_order": 10
+  },
+  {
+    "major_id": "major_23",
+    "major_name": "人力资源管理",
+    "aliases": [
+      "HR",
+      "招聘"
+    ],
+    "keywords": [
+      "人力资源管理",
+      "商科管理类",
+      "HR",
+      "招聘"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "人力资源管理",
+      "商科管理类",
+      "HR",
+      "招聘"
+    ],
+    "popularity_score": 50,
+    "display_order": 1022
+  },
+  {
+    "major_id": "major_24",
+    "major_name": "电子商务",
+    "aliases": [
+      "电商",
+      "市场"
+    ],
+    "keywords": [
+      "电子商务",
+      "商科管理类",
+      "电商",
+      "市场",
+      "商业",
+      "营销"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "电子商务",
+      "商科管理类",
+      "电商",
+      "市场",
+      "商业",
+      "营销"
+    ],
+    "popularity_score": 84,
+    "display_order": 30
+  },
+  {
+    "major_id": "major_25",
+    "major_name": "国际经济与贸易",
+    "aliases": [
+      "国贸",
+      "外贸"
+    ],
+    "keywords": [
+      "国际经济与贸易",
+      "商科管理类",
+      "国贸",
+      "外贸",
+      "国际经济",
+      "贸易"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "国际经济与贸易",
+      "商科管理类",
+      "国贸",
+      "外贸"
+    ],
+    "popularity_score": 50,
+    "display_order": 1024
+  },
+  {
+    "major_id": "major_26",
+    "major_name": "物流管理",
+    "aliases": [],
+    "keywords": [
+      "物流管理",
+      "商科管理类"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "物流管理",
+      "商科管理类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1025
+  },
+  {
+    "major_id": "major_27",
+    "major_name": "供应链管理",
+    "aliases": [
+      "供应链"
+    ],
+    "keywords": [
+      "供应链管理",
+      "商科管理类",
+      "供应链"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "供应链管理",
+      "商科管理类",
+      "供应链"
+    ],
+    "popularity_score": 50,
+    "display_order": 1026
+  },
+  {
+    "major_id": "major_28",
+    "major_name": "会计学",
+    "aliases": [
+      "会计"
+    ],
+    "keywords": [
+      "会计学",
+      "商科管理类",
+      "会计"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "会计学",
+      "商科管理类",
+      "会计"
+    ],
+    "popularity_score": 50,
+    "display_order": 1027
+  },
+  {
+    "major_id": "major_29",
+    "major_name": "财务管理",
+    "aliases": [
+      "财务"
+    ],
+    "keywords": [
+      "财务管理",
+      "商科管理类",
+      "财务"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "财务管理",
+      "商科管理类",
+      "财务"
+    ],
+    "popularity_score": 50,
+    "display_order": 1028
+  },
+  {
+    "major_id": "major_30",
+    "major_name": "审计学",
+    "aliases": [
+      "审计"
+    ],
+    "keywords": [
+      "审计学",
+      "商科管理类",
+      "审计"
+    ],
+    "major_group": "商科管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "marketing_intern",
+      "brand_intern",
+      "business_development_intern",
+      "ecommerce_operation",
+      "customer_success_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "data_analysis_intern",
+      "operation_analysis_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "business",
+    "search_keywords": [
+      "审计学",
+      "商科管理类",
+      "审计"
+    ],
+    "popularity_score": 50,
+    "display_order": 1029
+  },
+  {
+    "major_id": "major_31",
+    "major_name": "汉语言文学",
+    "aliases": [],
+    "keywords": [
+      "汉语言文学",
+      "文学传播类"
+    ],
+    "major_group": "文学传播类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "content_operation",
+      "new_media_operation",
+      "brand_communication_intern",
+      "public_relations_intern"
+    ],
+    "weak_related_job_ids": [
+      "market_research_intern",
+      "media_intern",
+      "short_video_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "media",
+    "search_keywords": [
+      "汉语言文学",
+      "文学传播类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1030
+  },
+  {
+    "major_id": "major_32",
+    "major_name": "新闻学",
+    "aliases": [
+      "新闻"
+    ],
+    "keywords": [
+      "新闻学",
+      "文学传播类",
+      "新闻"
+    ],
+    "major_group": "文学传播类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "content_operation",
+      "new_media_operation",
+      "brand_communication_intern",
+      "public_relations_intern"
+    ],
+    "weak_related_job_ids": [
+      "market_research_intern",
+      "media_intern",
+      "short_video_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "media",
+    "search_keywords": [
+      "新闻学",
+      "文学传播类",
+      "新闻"
+    ],
+    "popularity_score": 100,
+    "display_order": 10
+  },
+  {
+    "major_id": "major_33",
+    "major_name": "传播学",
+    "aliases": [
+      "传播",
+      "新闻"
+    ],
+    "keywords": [
+      "传播学",
+      "文学传播类",
+      "传播",
+      "新闻",
+      "媒体"
+    ],
+    "major_group": "文学传播类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "content_operation",
+      "new_media_operation",
+      "brand_communication_intern",
+      "public_relations_intern"
+    ],
+    "weak_related_job_ids": [
+      "market_research_intern",
+      "media_intern",
+      "short_video_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "media",
+    "search_keywords": [
+      "传播学",
+      "文学传播类",
+      "传播",
+      "新闻",
+      "媒体"
+    ],
+    "popularity_score": 90,
+    "display_order": 20
+  },
+  {
+    "major_id": "major_34",
+    "major_name": "广告学",
+    "aliases": [
+      "广告",
+      "新闻"
+    ],
+    "keywords": [
+      "广告学",
+      "文学传播类",
+      "广告",
+      "新闻",
+      "媒体",
+      "传播"
+    ],
+    "major_group": "文学传播类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "content_operation",
+      "new_media_operation",
+      "brand_communication_intern",
+      "public_relations_intern"
+    ],
+    "weak_related_job_ids": [
+      "market_research_intern",
+      "media_intern",
+      "short_video_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "media",
+    "search_keywords": [
+      "广告学",
+      "文学传播类",
+      "广告",
+      "新闻",
+      "媒体",
+      "传播"
+    ],
+    "popularity_score": 80,
+    "display_order": 40
+  },
+  {
+    "major_id": "major_35",
+    "major_name": "网络与新媒体",
+    "aliases": [
+      "新媒体",
+      "新闻"
+    ],
+    "keywords": [
+      "网络与新媒体",
+      "文学传播类",
+      "新媒体",
+      "网络",
+      "新闻",
+      "媒体",
+      "传播"
+    ],
+    "major_group": "文学传播类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "content_operation",
+      "new_media_operation",
+      "brand_communication_intern",
+      "public_relations_intern"
+    ],
+    "weak_related_job_ids": [
+      "market_research_intern",
+      "media_intern",
+      "short_video_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "media",
+    "search_keywords": [
+      "网络与新媒体",
+      "文学传播类",
+      "新媒体",
+      "新闻",
+      "媒体",
+      "传播"
+    ],
+    "popularity_score": 86,
+    "display_order": 30
+  },
+  {
+    "major_id": "major_36",
+    "major_name": "编辑出版学",
+    "aliases": [],
+    "keywords": [
+      "编辑出版学",
+      "文学传播类"
+    ],
+    "major_group": "文学传播类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "content_operation",
+      "new_media_operation",
+      "brand_communication_intern",
+      "public_relations_intern"
+    ],
+    "weak_related_job_ids": [
+      "market_research_intern",
+      "media_intern",
+      "short_video_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "media",
+    "search_keywords": [
+      "编辑出版学",
+      "文学传播类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1035
+  },
+  {
+    "major_id": "major_37",
+    "major_name": "英语",
+    "aliases": [],
+    "keywords": [
+      "英语",
+      "文学传播类"
+    ],
+    "major_group": "文学传播类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "content_operation",
+      "new_media_operation",
+      "brand_communication_intern",
+      "public_relations_intern"
+    ],
+    "weak_related_job_ids": [
+      "market_research_intern",
+      "media_intern",
+      "short_video_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "media",
+    "search_keywords": [
+      "英语",
+      "文学传播类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1036
+  },
+  {
+    "major_id": "major_38",
+    "major_name": "商务英语",
+    "aliases": [],
+    "keywords": [
+      "商务英语",
+      "文学传播类"
+    ],
+    "major_group": "文学传播类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "content_operation",
+      "new_media_operation",
+      "brand_communication_intern",
+      "public_relations_intern"
+    ],
+    "weak_related_job_ids": [
+      "market_research_intern",
+      "media_intern",
+      "short_video_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "media",
+    "search_keywords": [
+      "商务英语",
+      "文学传播类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1037
+  },
+  {
+    "major_id": "major_39",
+    "major_name": "法学",
+    "aliases": [],
+    "keywords": [
+      "法学",
+      "法学公共管理类"
+    ],
+    "major_group": "法学公共管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "legal_intern",
+      "public_relations_intern",
+      "hr_intern"
+    ],
+    "weak_related_job_ids": [
+      "admin_intern",
+      "customer_success_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "法学",
+      "法学公共管理类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1038
+  },
+  {
+    "major_id": "major_40",
+    "major_name": "知识产权",
+    "aliases": [],
+    "keywords": [
+      "知识产权",
+      "法学公共管理类"
+    ],
+    "major_group": "法学公共管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "legal_intern",
+      "public_relations_intern",
+      "hr_intern"
+    ],
+    "weak_related_job_ids": [
+      "admin_intern",
+      "customer_success_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "知识产权",
+      "法学公共管理类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1039
+  },
+  {
+    "major_id": "major_41",
+    "major_name": "行政管理",
+    "aliases": [],
+    "keywords": [
+      "行政管理",
+      "法学公共管理类"
+    ],
+    "major_group": "法学公共管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "legal_intern",
+      "public_relations_intern",
+      "hr_intern"
+    ],
+    "weak_related_job_ids": [
+      "admin_intern",
+      "customer_success_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "行政管理",
+      "法学公共管理类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1040
+  },
+  {
+    "major_id": "major_42",
+    "major_name": "公共事业管理",
+    "aliases": [],
+    "keywords": [
+      "公共事业管理",
+      "法学公共管理类"
+    ],
+    "major_group": "法学公共管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "legal_intern",
+      "public_relations_intern",
+      "hr_intern"
+    ],
+    "weak_related_job_ids": [
+      "admin_intern",
+      "customer_success_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "公共事业管理",
+      "法学公共管理类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1041
+  },
+  {
+    "major_id": "major_43",
+    "major_name": "社会学",
+    "aliases": [],
+    "keywords": [
+      "社会学",
+      "法学公共管理类"
+    ],
+    "major_group": "法学公共管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "legal_intern",
+      "public_relations_intern",
+      "hr_intern"
+    ],
+    "weak_related_job_ids": [
+      "admin_intern",
+      "customer_success_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "社会学",
+      "法学公共管理类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1042
+  },
+  {
+    "major_id": "major_44",
+    "major_name": "社会工作",
+    "aliases": [],
+    "keywords": [
+      "社会工作",
+      "法学公共管理类"
+    ],
+    "major_group": "法学公共管理类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "legal_intern",
+      "public_relations_intern",
+      "hr_intern"
+    ],
+    "weak_related_job_ids": [
+      "admin_intern",
+      "customer_success_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "社会工作",
+      "法学公共管理类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1043
+  },
+  {
+    "major_id": "major_45",
+    "major_name": "视觉传达设计",
+    "aliases": [],
+    "keywords": [
+      "视觉传达设计",
+      "设计艺术类"
+    ],
+    "major_group": "设计艺术类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "ui_design_intern",
+      "graphic_design_intern",
+      "visual_design_intern",
+      "interaction_design_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "content_planning_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "design",
+    "search_keywords": [
+      "视觉传达设计",
+      "设计艺术类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1044
+  },
+  {
+    "major_id": "major_46",
+    "major_name": "环境设计",
+    "aliases": [],
+    "keywords": [
+      "环境设计",
+      "设计艺术类"
+    ],
+    "major_group": "设计艺术类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "ui_design_intern",
+      "graphic_design_intern",
+      "visual_design_intern",
+      "interaction_design_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "content_planning_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "design",
+    "search_keywords": [
+      "环境设计",
+      "设计艺术类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1045
+  },
+  {
+    "major_id": "major_47",
+    "major_name": "产品设计",
+    "aliases": [],
+    "keywords": [
+      "产品设计",
+      "设计艺术类"
+    ],
+    "major_group": "设计艺术类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "ui_design_intern",
+      "graphic_design_intern",
+      "visual_design_intern",
+      "interaction_design_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "content_planning_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "design",
+    "search_keywords": [
+      "产品设计",
+      "设计艺术类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1046
+  },
+  {
+    "major_id": "major_48",
+    "major_name": "数字媒体艺术",
+    "aliases": [],
+    "keywords": [
+      "数字媒体艺术",
+      "设计艺术类"
+    ],
+    "major_group": "设计艺术类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "ui_design_intern",
+      "graphic_design_intern",
+      "visual_design_intern",
+      "interaction_design_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "content_planning_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "design",
+    "search_keywords": [
+      "数字媒体艺术",
+      "设计艺术类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1047
+  },
+  {
+    "major_id": "major_49",
+    "major_name": "动画",
+    "aliases": [],
+    "keywords": [
+      "动画",
+      "设计艺术类"
+    ],
+    "major_group": "设计艺术类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "ui_design_intern",
+      "graphic_design_intern",
+      "visual_design_intern",
+      "interaction_design_intern"
+    ],
+    "weak_related_job_ids": [
+      "product_manager_intern",
+      "content_planning_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "design",
+    "search_keywords": [
+      "动画",
+      "设计艺术类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1048
+  },
+  {
+    "major_id": "major_50",
+    "major_name": "数学与应用数学",
+    "aliases": [],
+    "keywords": [
+      "数学与应用数学",
+      "理学类",
+      "数学",
+      "应用数学"
+    ],
+    "major_group": "理学类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "data_analysis_intern",
+      "business_analysis_intern",
+      "lab_assistant",
+      "rd_assistant"
+    ],
+    "weak_related_job_ids": [
+      "market_analysis_assistant",
+      "quality_management_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "数学与应用数学",
+      "理学类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1049
+  },
+  {
+    "major_id": "major_51",
+    "major_name": "统计学",
+    "aliases": [],
+    "keywords": [
+      "统计学",
+      "理学类"
+    ],
+    "major_group": "理学类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "data_analysis_intern",
+      "business_analysis_intern",
+      "lab_assistant",
+      "rd_assistant"
+    ],
+    "weak_related_job_ids": [
+      "market_analysis_assistant",
+      "quality_management_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "统计学",
+      "理学类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1050
+  },
+  {
+    "major_id": "major_52",
+    "major_name": "应用统计学",
+    "aliases": [],
+    "keywords": [
+      "应用统计学",
+      "理学类"
+    ],
+    "major_group": "理学类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "data_analysis_intern",
+      "business_analysis_intern",
+      "lab_assistant",
+      "rd_assistant"
+    ],
+    "weak_related_job_ids": [
+      "market_analysis_assistant",
+      "quality_management_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "应用统计学",
+      "理学类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1051
+  },
+  {
+    "major_id": "major_53",
+    "major_name": "心理学",
+    "aliases": [],
+    "keywords": [
+      "心理学",
+      "理学类"
+    ],
+    "major_group": "理学类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "data_analysis_intern",
+      "business_analysis_intern",
+      "lab_assistant",
+      "rd_assistant"
+    ],
+    "weak_related_job_ids": [
+      "market_analysis_assistant",
+      "quality_management_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "心理学",
+      "理学类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1052
+  },
+  {
+    "major_id": "major_54",
+    "major_name": "应用心理学",
+    "aliases": [],
+    "keywords": [
+      "应用心理学",
+      "理学类"
+    ],
+    "major_group": "理学类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "data_analysis_intern",
+      "business_analysis_intern",
+      "lab_assistant",
+      "rd_assistant"
+    ],
+    "weak_related_job_ids": [
+      "market_analysis_assistant",
+      "quality_management_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "应用心理学",
+      "理学类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1053
+  },
+  {
+    "major_id": "major_55",
+    "major_name": "生物科学",
+    "aliases": [],
+    "keywords": [
+      "生物科学",
+      "理学类"
+    ],
+    "major_group": "理学类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "data_analysis_intern",
+      "business_analysis_intern",
+      "lab_assistant",
+      "rd_assistant"
+    ],
+    "weak_related_job_ids": [
+      "market_analysis_assistant",
+      "quality_management_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "生物科学",
+      "理学类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1054
+  },
+  {
+    "major_id": "major_56",
+    "major_name": "化学",
+    "aliases": [],
+    "keywords": [
+      "化学",
+      "理学类"
+    ],
+    "major_group": "理学类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "data_analysis_intern",
+      "business_analysis_intern",
+      "lab_assistant",
+      "rd_assistant"
+    ],
+    "weak_related_job_ids": [
+      "market_analysis_assistant",
+      "quality_management_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "化学",
+      "理学类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1055
+  },
+  {
+    "major_id": "major_57",
+    "major_name": "应用化学",
+    "aliases": [],
+    "keywords": [
+      "应用化学",
+      "理学类"
+    ],
+    "major_group": "理学类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "data_analysis_intern",
+      "business_analysis_intern",
+      "lab_assistant",
+      "rd_assistant"
+    ],
+    "weak_related_job_ids": [
+      "market_analysis_assistant",
+      "quality_management_intern"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "应用化学",
+      "理学类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1056
+  },
+  {
+    "major_id": "major_58",
+    "major_name": "机械工程",
+    "aliases": [],
+    "keywords": [
+      "机械工程",
+      "工程制造类"
+    ],
+    "major_group": "工程制造类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "mechanical_engineering_intern",
+      "electrical_engineering_intern",
+      "process_engineering_assistant",
+      "quality_engineering_assistant"
+    ],
+    "weak_related_job_ids": [
+      "supply_chain_intern",
+      "production_planning_intern",
+      "procurement_assistant"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "engineering",
+    "search_keywords": [
+      "机械工程",
+      "工程制造类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1057
+  },
+  {
+    "major_id": "major_59",
+    "major_name": "机械设计制造及其自动化",
+    "aliases": [],
+    "keywords": [
+      "机械设计制造及其自动化",
+      "工程制造类",
+      "机械设计制造",
+      "其自动化"
+    ],
+    "major_group": "工程制造类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "mechanical_engineering_intern",
+      "electrical_engineering_intern",
+      "process_engineering_assistant",
+      "quality_engineering_assistant"
+    ],
+    "weak_related_job_ids": [
+      "supply_chain_intern",
+      "production_planning_intern",
+      "procurement_assistant"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "engineering",
+    "search_keywords": [
+      "机械设计制造及其自动化",
+      "工程制造类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1058
+  },
+  {
+    "major_id": "major_60",
+    "major_name": "电气工程及其自动化",
+    "aliases": [],
+    "keywords": [
+      "电气工程及其自动化",
+      "工程制造类",
+      "电气工程",
+      "其自动化"
+    ],
+    "major_group": "工程制造类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "mechanical_engineering_intern",
+      "electrical_engineering_intern",
+      "process_engineering_assistant",
+      "quality_engineering_assistant"
+    ],
+    "weak_related_job_ids": [
+      "supply_chain_intern",
+      "production_planning_intern",
+      "procurement_assistant"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "engineering",
+    "search_keywords": [
+      "电气工程及其自动化",
+      "工程制造类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1059
+  },
+  {
+    "major_id": "major_61",
+    "major_name": "土木工程",
+    "aliases": [],
+    "keywords": [
+      "土木工程",
+      "工程制造类"
+    ],
+    "major_group": "工程制造类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "mechanical_engineering_intern",
+      "electrical_engineering_intern",
+      "process_engineering_assistant",
+      "quality_engineering_assistant"
+    ],
+    "weak_related_job_ids": [
+      "supply_chain_intern",
+      "production_planning_intern",
+      "procurement_assistant"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "engineering",
+    "search_keywords": [
+      "土木工程",
+      "工程制造类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1060
+  },
+  {
+    "major_id": "major_62",
+    "major_name": "工程管理",
+    "aliases": [],
+    "keywords": [
+      "工程管理",
+      "工程制造类"
+    ],
+    "major_group": "工程制造类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "mechanical_engineering_intern",
+      "electrical_engineering_intern",
+      "process_engineering_assistant",
+      "quality_engineering_assistant"
+    ],
+    "weak_related_job_ids": [
+      "supply_chain_intern",
+      "production_planning_intern",
+      "procurement_assistant"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "engineering",
+    "search_keywords": [
+      "工程管理",
+      "工程制造类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1061
+  },
+  {
+    "major_id": "major_63",
+    "major_name": "工程造价",
+    "aliases": [],
+    "keywords": [
+      "工程造价",
+      "工程制造类"
+    ],
+    "major_group": "工程制造类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "mechanical_engineering_intern",
+      "electrical_engineering_intern",
+      "process_engineering_assistant",
+      "quality_engineering_assistant"
+    ],
+    "weak_related_job_ids": [
+      "supply_chain_intern",
+      "production_planning_intern",
+      "procurement_assistant"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "engineering",
+    "search_keywords": [
+      "工程造价",
+      "工程制造类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1062
+  },
+  {
+    "major_id": "major_64",
+    "major_name": "材料科学与工程",
+    "aliases": [],
+    "keywords": [
+      "材料科学与工程",
+      "工程制造类",
+      "材料科学",
+      "工程"
+    ],
+    "major_group": "工程制造类",
+    "barrier_level": "中高",
+    "strong_related_job_ids": [
+      "mechanical_engineering_intern",
+      "electrical_engineering_intern",
+      "process_engineering_assistant",
+      "quality_engineering_assistant"
+    ],
+    "weak_related_job_ids": [
+      "supply_chain_intern",
+      "production_planning_intern",
+      "procurement_assistant"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "engineering",
+    "search_keywords": [
+      "材料科学与工程",
+      "工程制造类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1063
+  },
+  {
+    "major_id": "major_65",
+    "major_name": "教育学",
+    "aliases": [],
+    "keywords": [
+      "教育学",
+      "教育类"
+    ],
+    "major_group": "教育类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "teaching_research_assistant",
+      "course_operation",
+      "teaching_assistant",
+      "education_product_assistant"
+    ],
+    "weak_related_job_ids": [
+      "content_operation",
+      "user_operation",
+      "new_media_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "education",
+    "search_keywords": [
+      "教育学",
+      "教育类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1064
+  },
+  {
+    "major_id": "major_66",
+    "major_name": "学前教育",
+    "aliases": [],
+    "keywords": [
+      "学前教育",
+      "教育类"
+    ],
+    "major_group": "教育类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "teaching_research_assistant",
+      "course_operation",
+      "teaching_assistant",
+      "education_product_assistant"
+    ],
+    "weak_related_job_ids": [
+      "content_operation",
+      "user_operation",
+      "new_media_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "education",
+    "search_keywords": [
+      "学前教育",
+      "教育类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1065
+  },
+  {
+    "major_id": "major_67",
+    "major_name": "小学教育",
+    "aliases": [],
+    "keywords": [
+      "小学教育",
+      "教育类"
+    ],
+    "major_group": "教育类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "teaching_research_assistant",
+      "course_operation",
+      "teaching_assistant",
+      "education_product_assistant"
+    ],
+    "weak_related_job_ids": [
+      "content_operation",
+      "user_operation",
+      "new_media_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "education",
+    "search_keywords": [
+      "小学教育",
+      "教育类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1066
+  },
+  {
+    "major_id": "major_68",
+    "major_name": "体育教育",
+    "aliases": [],
+    "keywords": [
+      "体育教育",
+      "教育类"
+    ],
+    "major_group": "教育类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "teaching_research_assistant",
+      "course_operation",
+      "teaching_assistant",
+      "education_product_assistant"
+    ],
+    "weak_related_job_ids": [
+      "content_operation",
+      "user_operation",
+      "new_media_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "education",
+    "search_keywords": [
+      "体育教育",
+      "教育类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1067
+  },
+  {
+    "major_id": "major_69",
+    "major_name": "教育技术学",
+    "aliases": [],
+    "keywords": [
+      "教育技术学",
+      "教育类"
+    ],
+    "major_group": "教育类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "teaching_research_assistant",
+      "course_operation",
+      "teaching_assistant",
+      "education_product_assistant"
+    ],
+    "weak_related_job_ids": [
+      "content_operation",
+      "user_operation",
+      "new_media_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "education",
+    "search_keywords": [
+      "教育技术学",
+      "教育类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1068
+  },
+  {
+    "major_id": "general",
+    "major_name": "通用类",
+    "aliases": [],
+    "keywords": [
+      "通用类"
+    ],
+    "major_group": "通用类",
+    "barrier_level": "中",
+    "strong_related_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "project_assistant"
+    ],
+    "weak_related_job_ids": [
+      "hr_intern",
+      "admin_intern",
+      "customer_service_operation"
+    ],
+    "cross_major_job_ids": [
+      "user_operation",
+      "content_operation",
+      "marketing_intern",
+      "product_manager_intern",
+      "project_assistant"
+    ],
+    "conditional_question_group": "",
+    "search_keywords": [
+      "通用类"
+    ],
+    "popularity_score": 50,
+    "display_order": 1069
+  }
+]

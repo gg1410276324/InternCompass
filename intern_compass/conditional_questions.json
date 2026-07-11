@@ -1,0 +1,550 @@
+{
+  "question_groups": {
+    "animal_medical": {
+      "title": "动物医学类补充问题",
+      "major_groups": [
+        "动物医学与动保类"
+      ],
+      "questions": [
+        {
+          "id": "animal_accept_farm",
+          "text": "是否接受养殖场环境",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "不接受": {
+              "avoid_tags": [
+                "养殖场环境"
+              ],
+              "penalty_job_ids": [
+                "farm_tech_intern"
+              ]
+            },
+            "接受": {
+              "boost_job_ids": [
+                "farm_tech_intern",
+                "animal_drug_tech_support"
+              ]
+            }
+          }
+        },
+        {
+          "id": "animal_accept_pet_clinic",
+          "text": "是否接受宠物医院临床一线",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "不接受": {
+              "avoid_tags": [
+                "临床一线"
+              ],
+              "penalty_job_ids": [
+                "veterinary_assistant",
+                "pet_hospital_intern"
+              ]
+            },
+            "接受": {
+              "boost_job_ids": [
+                "veterinary_assistant",
+                "pet_hospital_intern"
+              ]
+            }
+          }
+        },
+        {
+          "id": "animal_accept_testing",
+          "text": "是否接受动物检验检测",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "接受": {
+              "boost_job_ids": [
+                "animal_testing_intern",
+                "lab_assistant"
+              ]
+            }
+          }
+        },
+        {
+          "id": "animal_accept_tech_support",
+          "text": "是否接受动保企业技术支持",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "接受": {
+              "boost_job_ids": [
+                "animal_drug_tech_support",
+                "animal_health_marketing_intern"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "medical": {
+      "title": "医学类补充问题",
+      "major_groups": [
+        "医药健康类"
+      ],
+      "questions": [
+        {
+          "id": "medical_accept_clinical",
+          "text": "是否接受医院临床一线",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "不接受": {
+              "avoid_tags": [
+                "临床一线"
+              ],
+              "penalty_job_ids": [
+                "hospital_observation_intern",
+                "medical_device_clinical_support"
+              ]
+            },
+            "接受": {
+              "boost_job_ids": [
+                "hospital_observation_intern",
+                "clinical_research_assistant"
+              ]
+            }
+          }
+        },
+        {
+          "id": "medical_accept_night_shift",
+          "text": "是否接受夜班 / 倒班",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "不接受": {
+              "avoid_tags": [
+                "倒班夜班"
+              ]
+            }
+          }
+        },
+        {
+          "id": "medical_accept_pharma_company",
+          "text": "是否接受医药企业岗位",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "接受": {
+              "boost_job_ids": [
+                "pharma_marketing_intern",
+                "medical_affairs_assistant",
+                "drug_registration_assistant"
+              ]
+            }
+          }
+        },
+        {
+          "id": "medical_accept_content_market",
+          "text": "是否接受医学内容 / 医药市场方向",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "接受": {
+              "boost_job_ids": [
+                "medical_editor",
+                "medical_content_operation",
+                "pharma_marketing_intern"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "oral_medical": {
+      "title": "口腔医学类补充问题",
+      "major_groups": [
+        "口腔医学类"
+      ],
+      "questions": [
+        {
+          "id": "oral_accept_clinic",
+          "text": "是否接受口腔临床或门诊一线",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "接受": {
+              "boost_job_ids": [
+                "dental_clinic_assistant",
+                "dental_hospital_intern"
+              ]
+            },
+            "不接受": {
+              "avoid_tags": [
+                "临床一线"
+              ],
+              "penalty_job_ids": [
+                "dental_clinic_assistant",
+                "dental_hospital_intern"
+              ]
+            }
+          }
+        },
+        {
+          "id": "oral_accept_brand",
+          "text": "是否接受齿科品牌 / 新媒体方向",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "接受": {
+              "boost_job_ids": [
+                "dental_brand_marketing_intern",
+                "dental_new_media_operation"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "computer": {
+      "title": "计算机类补充问题",
+      "major_groups": [
+        "计算机类"
+      ],
+      "questions": [
+        {
+          "id": "computer_accept_coding",
+          "text": "是否接受长期写代码",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "不接受": {
+              "avoid_tags": [
+                "纯代码"
+              ],
+              "penalty_job_ids": [
+                "frontend_development_intern",
+                "backend_development_intern",
+                "java_development_intern",
+                "python_development_intern",
+                "algorithm_intern"
+              ]
+            },
+            "接受": {
+              "boost_job_ids": [
+                "frontend_development_intern",
+                "backend_development_intern",
+                "python_development_intern",
+                "ai_application_development_intern"
+              ]
+            }
+          }
+        },
+        {
+          "id": "computer_direction",
+          "text": "更偏开发 / 测试 / 数据 / 产品 / AI 应用 / 技术支持",
+          "type": "single_choice",
+          "options": [
+            "开发",
+            "测试",
+            "数据",
+            "产品",
+            "AI 应用",
+            "技术支持",
+            "不确定"
+          ],
+          "effects": {
+            "开发": {
+              "boost_job_ids": [
+                "frontend_development_intern",
+                "backend_development_intern",
+                "java_development_intern",
+                "python_development_intern"
+              ]
+            },
+            "测试": {
+              "boost_job_ids": [
+                "test_development_intern",
+                "software_testing_intern"
+              ]
+            },
+            "数据": {
+              "boost_job_ids": [
+                "data_analysis_intern",
+                "data_development_intern",
+                "bi_assistant"
+              ]
+            },
+            "产品": {
+              "boost_job_ids": [
+                "product_manager_intern",
+                "ai_product_assistant"
+              ]
+            },
+            "AI 应用": {
+              "boost_job_ids": [
+                "ai_application_development_intern",
+                "ai_product_assistant"
+              ]
+            }
+          }
+        },
+        {
+          "id": "computer_has_portfolio",
+          "text": "是否有项目作品",
+          "type": "single_choice",
+          "options": [
+            "有",
+            "没有",
+            "准备中"
+          ],
+          "effects": {
+            "有": {
+              "boost_job_ids": [
+                "frontend_development_intern",
+                "backend_development_intern",
+                "ai_application_development_intern"
+              ]
+            },
+            "没有": {
+              "penalty_job_ids": [
+                "algorithm_intern",
+                "backend_development_intern"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "business": {
+      "title": "商科管理类补充问题",
+      "major_groups": [
+        "商科管理类"
+      ],
+      "questions": [
+        {
+          "id": "business_accept_sales",
+          "text": "是否接受销售或客户沟通压力",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "不接受": {
+              "avoid_tags": [
+                "纯销售",
+                "高压 KPI"
+              ],
+              "penalty_job_ids": [
+                "channel_sales_assistant",
+                "key_account_assistant"
+              ]
+            },
+            "接受": {
+              "boost_job_ids": [
+                "business_development_intern",
+                "customer_success_intern",
+                "key_account_assistant"
+              ]
+            }
+          }
+        },
+        {
+          "id": "business_prefer_data",
+          "text": "是否更偏数据分析和商业分析",
+          "type": "single_choice",
+          "options": [
+            "是",
+            "否",
+            "不确定"
+          ],
+          "effects": {
+            "是": {
+              "boost_job_ids": [
+                "business_analysis_intern",
+                "market_analysis_assistant",
+                "financial_analysis_assistant"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "media": {
+      "title": "文学传播类补充问题",
+      "major_groups": [
+        "文学传播类"
+      ],
+      "questions": [
+        {
+          "id": "media_accept_content",
+          "text": "是否接受长期写作 / 内容生产",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "不接受": {
+              "avoid_tags": [
+                "纯文案"
+              ]
+            },
+            "接受": {
+              "boost_job_ids": [
+                "content_operation",
+                "new_media_operation",
+                "brand_communication_intern"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "design": {
+      "title": "设计艺术类补充问题",
+      "major_groups": [
+        "设计艺术类"
+      ],
+      "questions": [
+        {
+          "id": "design_has_portfolio",
+          "text": "是否有作品集",
+          "type": "single_choice",
+          "options": [
+            "有",
+            "没有",
+            "准备中"
+          ],
+          "effects": {
+            "有": {
+              "boost_job_ids": [
+                "ui_design_intern",
+                "graphic_design_intern",
+                "visual_design_intern",
+                "interaction_design_intern"
+              ]
+            },
+            "没有": {
+              "penalty_job_ids": [
+                "interaction_design_intern",
+                "ui_design_intern"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "engineering": {
+      "title": "工程制造类补充问题",
+      "major_groups": [
+        "工程制造类"
+      ],
+      "questions": [
+        {
+          "id": "engineering_accept_factory",
+          "text": "是否接受工厂 / 现场环境",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "不接受": {
+              "avoid_tags": [
+                "工厂环境"
+              ],
+              "penalty_job_ids": [
+                "mechanical_engineering_intern",
+                "electrical_engineering_intern",
+                "equipment_engineering_assistant"
+              ]
+            },
+            "接受": {
+              "boost_job_ids": [
+                "mechanical_engineering_intern",
+                "process_engineering_assistant",
+                "quality_engineering_assistant"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    "education": {
+      "title": "教育类补充问题",
+      "major_groups": [
+        "教育类"
+      ],
+      "questions": [
+        {
+          "id": "education_accept_teaching",
+          "text": "是否接受面对学生或家长沟通",
+          "type": "single_choice",
+          "options": [
+            "接受",
+            "不接受",
+            "不确定"
+          ],
+          "effects": {
+            "接受": {
+              "boost_job_ids": [
+                "teaching_assistant",
+                "subject_tutoring_assistant",
+                "class_advisor_assistant"
+              ]
+            },
+            "不接受": {
+              "penalty_job_ids": [
+                "class_advisor_assistant",
+                "teaching_assistant"
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
